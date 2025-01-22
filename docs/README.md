@@ -10,7 +10,7 @@
 
 # dev branch
 
-<img src="static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+<img src="static/img/poteus.png" alt="Poteus Banner" width="100%" />
 
 _As seen powering [@DegenSpartanAI](https://x.com/degenspartanai) and [@MarcAIndreessen](https://x.com/pmairca)_
 
